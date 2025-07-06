@@ -13,7 +13,7 @@ A Python-based spell checking system that uses Levenshtein distance algorithm an
 - **Levenshtein Distance Calculation** - Computes edit distance between words
 - **English Vocabulary Integration** - Uses NLTK corpus for word validation
 - **Keyboard Distance Analysis** - Considers physical keyboard layout for more accurate suggestions
-- **Misspelling Dataset** - Leverages common misspelling patterns for improved corrections
+- **Birkbeck Spelling Error Corpus** - Leverages common misspelling patterns for improved corrections
 
 ## 📋 Requirements
 
@@ -51,7 +51,7 @@ A Python-based spell checking system that uses Levenshtein distance algorithm an
 
 - **NLTK Words Corpus** - Standard English vocabulary
 - **Keyboard Distance Matrix** - Pre-calculated distances between keyboard keys
-- **Misspelling Database** - Common misspelling patterns and corrections
+- **Birkbeck Spelling Error Corpus** - Common misspelling patterns and corrections
 
 ## 🎯 Use Cases
 
